@@ -1,0 +1,74 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25.02.2016, 15:00:22
+    Author     : andreev_af
+*/
+
+@font-face{
+    font-family: 'Oswald-Bold';
+    src:    url('../fonts/Oswald-Bold.woff');
+}
+@font-face{
+    font-family: 'Oswald-BoldItalic';
+    src:    url('../fonts/Oswald-BoldItalic.woff');
+}
+/*
+@font-face{
+    font-family: 'Oswald-DemiBold';
+    src:    url('../fonts/Oswald-DemiBold.woff');
+}
+@font-face{
+    font-family: 'Oswald-Demi-BoldItalic';
+    src:    url('../fonts/Oswald-Demi-BoldItalic.woff');
+}
+@font-face{
+    font-family: 'Oswald-Extra-LightItalic';
+    src:    url('../fonts/Oswald-Extra-LightItalic.woff');
+}
+@font-face{
+    font-family: 'Oswald-ExtraLight';
+    src:    url('../fonts/Oswald-ExtraLight.woff');
+}
+@font-face{
+    font-family: 'Oswald-Heavy';
+    src:    url('../fonts/Oswald-Heavy.woff');
+}
+@font-face{
+    font-family: 'Oswald-HeavyItalic';
+    src:    url('../fonts/Oswald-HeavyItalic.woff');
+}
+@font-face{
+    font-family: 'Oswald-Light';
+    src:    url('../fonts/Oswald-Light.woff');
+}
+@font-face{
+    font-family: 'Oswald-LightItalic';
+    src:    url('../fonts/Oswald-LightItalic.woff');
+}
+@font-face{
+    font-family: 'Oswald-Medium';
+    src:    url('../fonts/Oswald-Medium.woff');
+}
+@font-face{
+    font-family: 'Oswald-MediumItalic';
+    src:    url('../fonts/Oswald-MediumItalic.woff');
+}
+*/
+@font-face{
+    font-family: 'Oswald-Regular';
+    src:    url('../fonts/Oswald-Regular.woff');
+}
+@font-face{
+    font-family: 'Oswald-RegularItalic';
+    src:    url('../fonts/Oswald-RegularItalic.woff');
+}
+/*
+@font-face{
+    font-family: 'Oswald-Stencil';
+    src:    url('../fonts/Oswald-Stencil.woff');
+}
+*/
